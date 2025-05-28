@@ -62,5 +62,4 @@ This project explores whether incorporating social media sentiment into stock pr
 
 ---
 
-## 📁 Folder Structure (recommended)
 
