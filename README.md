@@ -1,6 +1,6 @@
 # 📈 A Comparative Study of LSTM-Based Stock Price Prediction Models: Evaluating the Impact of Incorporating Sentiment Analysis on Predictive Accuracy.
 
-This project explores whether incorporating social media sentiment into stock price prediction models can improve their accuracy. Using Long Short-Term Memory (LSTM) models—a popular choice for time series forecasting—we compare predictions made with and without sentiment analysis derived from Twitter.
+Can tweets move stock prices? That's essentially what this project is trying to figure out. We took LSTM models, the go-to for anything time series related, and ran them twice: once on raw historical price data, and once with Twitter sentiment thrown into the mix. The goal was simple: does knowing what people are saying online actually make the predictions better?
 
 ---
 
