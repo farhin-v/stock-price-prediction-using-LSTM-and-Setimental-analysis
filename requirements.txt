@@ -1,0 +1,9 @@
+gradio
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+yfinance
+nltk
+vaderSentiment
